@@ -110,6 +110,11 @@ id="personaladdress" size="30"></td>
 </tr>
 
 <tr>
+<td>Stupid</td>
+<td><input type="text" name="stupid" id="stupid" size="30"></td>
+</tr>
+
+<tr>
 <td>MobileNo</td>
 <td><input type="text" name="mobileno" id="mobileno" size="30"></td>
 </tr>
